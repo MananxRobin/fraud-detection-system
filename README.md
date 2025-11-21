@@ -8,7 +8,8 @@
 
 A full-stack, real-time machine learning pipeline that detects fraudulent financial transactions in milliseconds. This project ingests a high-throughput stream of transactions, processes them via **Apache Kafka**, scores them using a **LightGBM** model deployed with **FastAPI**, and visualizes the results on a live **Streamlit** dashboard.
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot]<img width="1512" height="982" alt="Screenshot 2025-11-20 at 10 43 17 PM" src="https://github.com/user-attachments/assets/2f768b4e-aa2c-44b9-862e-c2c3f3a1d2fc" />
+
 
 ---
 
