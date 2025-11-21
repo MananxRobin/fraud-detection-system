@@ -33,9 +33,8 @@ The system follows a decoupled microservices architecture:
 5. **Dashboard:** Monitors stream activity and fraud alerts in real time.  
 
 
-```
+![Architecture](https://github.com/user-attachments/assets/648a9446-102a-4700-9401-274d1b02d911)
 
-```
 
 ---
 
@@ -126,7 +125,6 @@ Then open **http://localhost:8501** to view your live dashboard.
 ├── detector.py                                   # Kafka consumer logic
 ├── producer.py                                   # Data stream simulator
 ├── train_model.py                                # Training & feature engineering
-├── PS_20174392719_1491204439457_log.csv          # Dataset
 └── fraud_model.pkl                               # Saved LightGBM model
 
 ```
